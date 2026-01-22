@@ -20,6 +20,3 @@ The application allows users to compute routes between locations, use their curr
 - Leaflet Routing Machine
 - OpenStreetMap (Nominatim)
 - CARTO Basemaps
-
-## Project Structure
-
